@@ -13,7 +13,7 @@ Set up:
 	Now you can read all his/her weibo using RSS reader:
 	http://xxx.xxx/xxxxxx/weibo.php?id=<his/her weibo id>
   
-AGPL 3.0 lisense
+AGPL 3.0 license
 ==============
 	                    GNU AFFERO GENERAL PUBLIC LICENSE
 	                       Version 3, 19 November 2007
