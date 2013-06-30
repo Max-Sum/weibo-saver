@@ -97,7 +97,6 @@
          <guid><?php echo $weibo['link']; ?></guid>
          <link><?php echo $weibo['link']; ?></link>
       </item>
-      
      </channel>
 </rss>
 <?php
